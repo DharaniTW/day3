@@ -1,0 +1,51 @@
+ var resumess ={
+    "basics": {
+      "name": "Dharani S",
+      "email": "dharaniselvam05@gmail.com",
+      "phone": "(91) 9344896759 ",
+      "summary": "A summary of Dharani S…",
+      "location": {
+        "address": "2/228 abc town",
+        "postalCode": "606808",
+        "city": "chennai",
+      },
+      "profiles": [{
+        "network": "linked.in",
+        "username": "Dharani S",
+        "url": "https://linked.in/dharanis"
+      }]
+    },
+    "education": [{
+      "institution": "Thanthai periyar Goverment Institude Of Technology,Vellore",
+      "url": "https://tpgit.com/",
+      "area": "ECE",
+      "studyType": "Bachelor",
+      "startDate": "2018",
+      "endDate": "2022",
+      "score": "7.3",
+      "courses": [
+        "Full stack development"
+      ]
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "Beginner",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "English,Tamil",
+    }],
+    "projects": [{
+      "name": "Spy robot Project",
+      "description": "using spy robot to inspect the place where human can not go there",
+      "keywords": [
+        "arudino"
+      ],
+    }]
+}
+        
+    
